@@ -1,6 +1,6 @@
 # Phone-Hunter
 
-## A sample practice project
+## A simple DOM practice project
 ### Phones coming from API and showing on the display page.
 
 ### Features
