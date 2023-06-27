@@ -10,7 +10,7 @@
 * If the searched phone is not available on the API then it will show a message Sorry! Nothing Found
 * Phone details will show after clicking the show details button
 
-###
+## Technology Used
 * HTML
 * Bootstrap CDN
 * Vanilla Javascript
