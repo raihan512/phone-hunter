@@ -1,4 +1,4 @@
-# phone-hunter
+# Phone-Hunter
 
 ## A sample practice project
 ### Phones coming from API and showing on the display page.
